@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "/Enz7ilNslO1fomiLBzajFt+AhE7QxmUCEQCf4AAyMg=",
+  "Hash": "K2Tjmo+imp4vHJQtqqHXZISnlMTGdVwr05VRy4R0lRA=",
   "Source": "DatabaseTool.Webserver",
   "BasePath": "_content/DatabaseTool.Webserver",
   "Mode": "Default",
@@ -8,19 +8,19 @@
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [
     {
-      "Name": "DatabaseTool.Webserver/wwwroot",
+      "Name": "DatabaseTool.Webserver\\wwwroot",
       "Source": "DatabaseTool.Webserver",
-      "ContentRoot": "/Users/manuelyates/Documents/GitHub/AbschlussProjekt/DatabaseTool.Webserver/wwwroot/",
+      "ContentRoot": "C:\\Dateien\\_Code\\L12\\AbschlussProjekt\\LibraryTool.Webserver\\wwwroot\\",
       "BasePath": "_content/DatabaseTool.Webserver",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "/Users/manuelyates/Documents/GitHub/AbschlussProjekt/DatabaseTool.Webserver/obj/Debug/net7.0/scopedcss/bundle/DatabaseTool.Webserver.styles.css",
+      "Identity": "C:\\Dateien\\_Code\\L12\\AbschlussProjekt\\LibraryTool.Webserver\\obj\\Debug\\net7.0\\scopedcss\\bundle\\DatabaseTool.Webserver.styles.css",
       "SourceId": "DatabaseTool.Webserver",
       "SourceType": "Computed",
-      "ContentRoot": "/Users/manuelyates/Documents/GitHub/AbschlussProjekt/DatabaseTool.Webserver/obj/Debug/net7.0/scopedcss/bundle/",
+      "ContentRoot": "C:\\Dateien\\_Code\\L12\\AbschlussProjekt\\LibraryTool.Webserver\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
       "BasePath": "_content/DatabaseTool.Webserver",
       "RelativePath": "DatabaseTool.Webserver.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/manuelyates/Documents/GitHub/AbschlussProjekt/DatabaseTool.Webserver/obj/Debug/net7.0/scopedcss/bundle/DatabaseTool.Webserver.styles.css"
+      "OriginalItemSpec": "C:\\Dateien\\_Code\\L12\\AbschlussProjekt\\LibraryTool.Webserver\\obj\\Debug\\net7.0\\scopedcss\\bundle\\DatabaseTool.Webserver.styles.css"
     },
     {
-      "Identity": "/Users/manuelyates/Documents/GitHub/AbschlussProjekt/DatabaseTool.Webserver/obj/Debug/net7.0/scopedcss/projectbundle/DatabaseTool.Webserver.bundle.scp.css",
+      "Identity": "C:\\Dateien\\_Code\\L12\\AbschlussProjekt\\LibraryTool.Webserver\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\DatabaseTool.Webserver.bundle.scp.css",
       "SourceId": "DatabaseTool.Webserver",
       "SourceType": "Computed",
-      "ContentRoot": "/Users/manuelyates/Documents/GitHub/AbschlussProjekt/DatabaseTool.Webserver/obj/Debug/net7.0/scopedcss/projectbundle/",
+      "ContentRoot": "C:\\Dateien\\_Code\\L12\\AbschlussProjekt\\LibraryTool.Webserver\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/DatabaseTool.Webserver",
       "RelativePath": "DatabaseTool.Webserver.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/manuelyates/Documents/GitHub/AbschlussProjekt/DatabaseTool.Webserver/obj/Debug/net7.0/scopedcss/projectbundle/DatabaseTool.Webserver.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Dateien\\_Code\\L12\\AbschlussProjekt\\LibraryTool.Webserver\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\DatabaseTool.Webserver.bundle.scp.css"
     },
     {
-      "Identity": "/Users/manuelyates/Documents/GitHub/AbschlussProjekt/DatabaseTool.Webserver/wwwroot/css/bootstrap/bootstrap.min.css",
+      "Identity": "C:\\Dateien\\_Code\\L12\\AbschlussProjekt\\LibraryTool.Webserver\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "SourceId": "DatabaseTool.Webserver",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/manuelyates/Documents/GitHub/AbschlussProjekt/DatabaseTool.Webserver/wwwroot/",
+      "ContentRoot": "C:\\Dateien\\_Code\\L12\\AbschlussProjekt\\LibraryTool.Webserver\\wwwroot\\",
       "BasePath": "_content/DatabaseTool.Webserver",
       "RelativePath": "css/bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -65,13 +65,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/css/bootstrap/bootstrap.min.css"
+      "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "/Users/manuelyates/Documents/GitHub/AbschlussProjekt/DatabaseTool.Webserver/wwwroot/css/bootstrap/bootstrap.min.css.map",
+      "Identity": "C:\\Dateien\\_Code\\L12\\AbschlussProjekt\\LibraryTool.Webserver\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "DatabaseTool.Webserver",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/manuelyates/Documents/GitHub/AbschlussProjekt/DatabaseTool.Webserver/wwwroot/",
+      "ContentRoot": "C:\\Dateien\\_Code\\L12\\AbschlussProjekt\\LibraryTool.Webserver\\wwwroot\\",
       "BasePath": "_content/DatabaseTool.Webserver",
       "RelativePath": "css/bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -82,30 +82,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/css/bootstrap/bootstrap.min.css.map"
+      "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "/Users/manuelyates/Documents/GitHub/AbschlussProjekt/DatabaseTool.Webserver/wwwroot/css/open-iconic/FONT-LICENSE",
+      "Identity": "C:\\Dateien\\_Code\\L12\\AbschlussProjekt\\LibraryTool.Webserver\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "SourceId": "DatabaseTool.Webserver",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/manuelyates/Documents/GitHub/AbschlussProjekt/DatabaseTool.Webserver/wwwroot/",
-      "BasePath": "_content/DatabaseTool.Webserver",
-      "RelativePath": "css/open-iconic/FONT-LICENSE",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/css/open-iconic/FONT-LICENSE"
-    },
-    {
-      "Identity": "/Users/manuelyates/Documents/GitHub/AbschlussProjekt/DatabaseTool.Webserver/wwwroot/css/open-iconic/font/css/open-iconic-bootstrap.min.css",
-      "SourceId": "DatabaseTool.Webserver",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/manuelyates/Documents/GitHub/AbschlussProjekt/DatabaseTool.Webserver/wwwroot/",
+      "ContentRoot": "C:\\Dateien\\_Code\\L12\\AbschlussProjekt\\LibraryTool.Webserver\\wwwroot\\",
       "BasePath": "_content/DatabaseTool.Webserver",
       "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "AssetKind": "All",
@@ -116,13 +99,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/css/open-iconic/font/css/open-iconic-bootstrap.min.css"
+      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
     },
     {
-      "Identity": "/Users/manuelyates/Documents/GitHub/AbschlussProjekt/DatabaseTool.Webserver/wwwroot/css/open-iconic/font/fonts/open-iconic.eot",
+      "Identity": "C:\\Dateien\\_Code\\L12\\AbschlussProjekt\\LibraryTool.Webserver\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "SourceId": "DatabaseTool.Webserver",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/manuelyates/Documents/GitHub/AbschlussProjekt/DatabaseTool.Webserver/wwwroot/",
+      "ContentRoot": "C:\\Dateien\\_Code\\L12\\AbschlussProjekt\\LibraryTool.Webserver\\wwwroot\\",
       "BasePath": "_content/DatabaseTool.Webserver",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.eot",
       "AssetKind": "All",
@@ -133,13 +116,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/css/open-iconic/font/fonts/open-iconic.eot"
+      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
     },
     {
-      "Identity": "/Users/manuelyates/Documents/GitHub/AbschlussProjekt/DatabaseTool.Webserver/wwwroot/css/open-iconic/font/fonts/open-iconic.otf",
+      "Identity": "C:\\Dateien\\_Code\\L12\\AbschlussProjekt\\LibraryTool.Webserver\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "SourceId": "DatabaseTool.Webserver",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/manuelyates/Documents/GitHub/AbschlussProjekt/DatabaseTool.Webserver/wwwroot/",
+      "ContentRoot": "C:\\Dateien\\_Code\\L12\\AbschlussProjekt\\LibraryTool.Webserver\\wwwroot\\",
       "BasePath": "_content/DatabaseTool.Webserver",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.otf",
       "AssetKind": "All",
@@ -150,13 +133,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/css/open-iconic/font/fonts/open-iconic.otf"
+      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
     },
     {
-      "Identity": "/Users/manuelyates/Documents/GitHub/AbschlussProjekt/DatabaseTool.Webserver/wwwroot/css/open-iconic/font/fonts/open-iconic.svg",
+      "Identity": "C:\\Dateien\\_Code\\L12\\AbschlussProjekt\\LibraryTool.Webserver\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "SourceId": "DatabaseTool.Webserver",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/manuelyates/Documents/GitHub/AbschlussProjekt/DatabaseTool.Webserver/wwwroot/",
+      "ContentRoot": "C:\\Dateien\\_Code\\L12\\AbschlussProjekt\\LibraryTool.Webserver\\wwwroot\\",
       "BasePath": "_content/DatabaseTool.Webserver",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.svg",
       "AssetKind": "All",
@@ -167,13 +150,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/css/open-iconic/font/fonts/open-iconic.svg"
+      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
     },
     {
-      "Identity": "/Users/manuelyates/Documents/GitHub/AbschlussProjekt/DatabaseTool.Webserver/wwwroot/css/open-iconic/font/fonts/open-iconic.ttf",
+      "Identity": "C:\\Dateien\\_Code\\L12\\AbschlussProjekt\\LibraryTool.Webserver\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "SourceId": "DatabaseTool.Webserver",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/manuelyates/Documents/GitHub/AbschlussProjekt/DatabaseTool.Webserver/wwwroot/",
+      "ContentRoot": "C:\\Dateien\\_Code\\L12\\AbschlussProjekt\\LibraryTool.Webserver\\wwwroot\\",
       "BasePath": "_content/DatabaseTool.Webserver",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.ttf",
       "AssetKind": "All",
@@ -184,13 +167,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/css/open-iconic/font/fonts/open-iconic.ttf"
+      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
     },
     {
-      "Identity": "/Users/manuelyates/Documents/GitHub/AbschlussProjekt/DatabaseTool.Webserver/wwwroot/css/open-iconic/font/fonts/open-iconic.woff",
+      "Identity": "C:\\Dateien\\_Code\\L12\\AbschlussProjekt\\LibraryTool.Webserver\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "SourceId": "DatabaseTool.Webserver",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/manuelyates/Documents/GitHub/AbschlussProjekt/DatabaseTool.Webserver/wwwroot/",
+      "ContentRoot": "C:\\Dateien\\_Code\\L12\\AbschlussProjekt\\LibraryTool.Webserver\\wwwroot\\",
       "BasePath": "_content/DatabaseTool.Webserver",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.woff",
       "AssetKind": "All",
@@ -201,13 +184,30 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/css/open-iconic/font/fonts/open-iconic.woff"
+      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Identity": "/Users/manuelyates/Documents/GitHub/AbschlussProjekt/DatabaseTool.Webserver/wwwroot/css/open-iconic/ICON-LICENSE",
+      "Identity": "C:\\Dateien\\_Code\\L12\\AbschlussProjekt\\LibraryTool.Webserver\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "SourceId": "DatabaseTool.Webserver",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/manuelyates/Documents/GitHub/AbschlussProjekt/DatabaseTool.Webserver/wwwroot/",
+      "ContentRoot": "C:\\Dateien\\_Code\\L12\\AbschlussProjekt\\LibraryTool.Webserver\\wwwroot\\",
+      "BasePath": "_content/DatabaseTool.Webserver",
+      "RelativePath": "css/open-iconic/FONT-LICENSE",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
+    },
+    {
+      "Identity": "C:\\Dateien\\_Code\\L12\\AbschlussProjekt\\LibraryTool.Webserver\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "SourceId": "DatabaseTool.Webserver",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Dateien\\_Code\\L12\\AbschlussProjekt\\LibraryTool.Webserver\\wwwroot\\",
       "BasePath": "_content/DatabaseTool.Webserver",
       "RelativePath": "css/open-iconic/ICON-LICENSE",
       "AssetKind": "All",
@@ -218,13 +218,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/css/open-iconic/ICON-LICENSE"
+      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\ICON-LICENSE"
     },
     {
-      "Identity": "/Users/manuelyates/Documents/GitHub/AbschlussProjekt/DatabaseTool.Webserver/wwwroot/css/open-iconic/README.md",
+      "Identity": "C:\\Dateien\\_Code\\L12\\AbschlussProjekt\\LibraryTool.Webserver\\wwwroot\\css\\open-iconic\\README.md",
       "SourceId": "DatabaseTool.Webserver",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/manuelyates/Documents/GitHub/AbschlussProjekt/DatabaseTool.Webserver/wwwroot/",
+      "ContentRoot": "C:\\Dateien\\_Code\\L12\\AbschlussProjekt\\LibraryTool.Webserver\\wwwroot\\",
       "BasePath": "_content/DatabaseTool.Webserver",
       "RelativePath": "css/open-iconic/README.md",
       "AssetKind": "All",
@@ -235,13 +235,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/css/open-iconic/README.md"
+      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\README.md"
     },
     {
-      "Identity": "/Users/manuelyates/Documents/GitHub/AbschlussProjekt/DatabaseTool.Webserver/wwwroot/css/site.css",
+      "Identity": "C:\\Dateien\\_Code\\L12\\AbschlussProjekt\\LibraryTool.Webserver\\wwwroot\\css\\site.css",
       "SourceId": "DatabaseTool.Webserver",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/manuelyates/Documents/GitHub/AbschlussProjekt/DatabaseTool.Webserver/wwwroot/",
+      "ContentRoot": "C:\\Dateien\\_Code\\L12\\AbschlussProjekt\\LibraryTool.Webserver\\wwwroot\\",
       "BasePath": "_content/DatabaseTool.Webserver",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -252,13 +252,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/css/site.css"
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "/Users/manuelyates/Documents/GitHub/AbschlussProjekt/DatabaseTool.Webserver/wwwroot/favicon.png",
+      "Identity": "C:\\Dateien\\_Code\\L12\\AbschlussProjekt\\LibraryTool.Webserver\\wwwroot\\favicon.png",
       "SourceId": "DatabaseTool.Webserver",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/manuelyates/Documents/GitHub/AbschlussProjekt/DatabaseTool.Webserver/wwwroot/",
+      "ContentRoot": "C:\\Dateien\\_Code\\L12\\AbschlussProjekt\\LibraryTool.Webserver\\wwwroot\\",
       "BasePath": "_content/DatabaseTool.Webserver",
       "RelativePath": "favicon.png",
       "AssetKind": "All",
@@ -269,7 +269,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/favicon.png"
+      "OriginalItemSpec": "wwwroot\\favicon.png"
     }
   ]
 }
