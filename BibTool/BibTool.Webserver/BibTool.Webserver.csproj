@@ -13,8 +13,19 @@
       </Content>
     </ItemGroup>
 
+
     <ItemGroup>
-      <Folder Include="Data\" />
+      <ProjectReference Include="..\BibTool.Data\BibTool.Data.csproj" />
+    </ItemGroup>
+
+
+    <ItemGroup>
+      <Folder Include="Dialogs\" />
+    </ItemGroup>
+
+
+    <ItemGroup>
+      <PackageReference Include="MudBlazor" Version="6.10.0" />
     </ItemGroup>
 
 </Project>

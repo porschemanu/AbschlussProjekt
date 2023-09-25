@@ -1,0 +1,18 @@
+@using BibTool.Webserver.Data
+@using BibTool.Webserver.Pages
+@inject UserManager UserManager
+@inject NavigationManager NavigationManager
+@namespace BibTool.Webserver.Components
+@code{
+    protected override void OnParametersSet()
+    {
+        if (UserManager.User == null)
+        {
+            NavigationManager.NavigateTo("/login");
+        }
+        else
+        {
+            base.OnParametersSet();
+        }
+    }
+}
