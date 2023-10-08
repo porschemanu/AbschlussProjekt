@@ -919,11 +919,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/manuelyates/Documents/GitHub/Schule/AbschlussProjekt/BibTool/BibTool.Webserver/BibTool.Webserver.csproj",
+      "projectUniqueName": "/Users/manuelyates/Documents/GitHub/BBS_Wittlich/AbschlussProjekt/BibTool/BibTool.Webserver/BibTool.Webserver.csproj",
       "projectName": "BibTool.Webserver",
-      "projectPath": "/Users/manuelyates/Documents/GitHub/Schule/AbschlussProjekt/BibTool/BibTool.Webserver/BibTool.Webserver.csproj",
+      "projectPath": "/Users/manuelyates/Documents/GitHub/BBS_Wittlich/AbschlussProjekt/BibTool/BibTool.Webserver/BibTool.Webserver.csproj",
       "packagesPath": "/Users/manuelyates/.nuget/packages/",
-      "outputPath": "/Users/manuelyates/Documents/GitHub/Schule/AbschlussProjekt/BibTool/BibTool.Webserver/obj/",
+      "outputPath": "/Users/manuelyates/Documents/GitHub/BBS_Wittlich/AbschlussProjekt/BibTool/BibTool.Webserver/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/manuelyates/.nuget/NuGet/NuGet.Config"
@@ -940,8 +940,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "/Users/manuelyates/Documents/GitHub/Schule/AbschlussProjekt/BibTool/BibTool.Data/BibTool.Data.csproj": {
-              "projectPath": "/Users/manuelyates/Documents/GitHub/Schule/AbschlussProjekt/BibTool/BibTool.Data/BibTool.Data.csproj"
+            "/Users/manuelyates/Documents/GitHub/BBS_Wittlich/AbschlussProjekt/BibTool/BibTool.Data/BibTool.Data.csproj": {
+              "projectPath": "/Users/manuelyates/Documents/GitHub/BBS_Wittlich/AbschlussProjekt/BibTool/BibTool.Data/BibTool.Data.csproj"
             }
           }
         }

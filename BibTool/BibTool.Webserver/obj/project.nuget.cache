@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/MBiHCDBjst+JLE+BUzBz1v9E2KDovQbSPNwNv2wnbuqp5R8UfrRTqrYN1Pso7X84qgw2HHbu7E7FucpuXjvpg==",
+  "dgSpecHash": "85BjixiP9D4QNO2sprRnM8dwCjCzKeexHGjFb3Qe4hUuPAvkJFLxAkvwSrlL2G3U6ob/7uOXAOgmC3TYXOe7YA==",
   "success": true,
-  "projectFilePath": "/Users/manuelyates/Documents/GitHub/Schule/AbschlussProjekt/BibTool/BibTool.Webserver/BibTool.Webserver.csproj",
+  "projectFilePath": "/Users/manuelyates/Documents/GitHub/BBS_Wittlich/AbschlussProjekt/BibTool/BibTool.Webserver/BibTool.Webserver.csproj",
   "expectedPackageFiles": [
     "/Users/manuelyates/.nuget/packages/microsoft.aspnetcore.authorization/7.0.5/microsoft.aspnetcore.authorization.7.0.5.nupkg.sha512",
     "/Users/manuelyates/.nuget/packages/microsoft.aspnetcore.components/7.0.5/microsoft.aspnetcore.components.7.0.5.nupkg.sha512",

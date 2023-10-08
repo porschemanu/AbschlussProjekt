@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/manuelyates/Documents/GitHub/Schule/AbschlussProjekt/BibTool/BibTool.Data/BibTool.Data.csproj": {}
+    "/Users/manuelyates/Documents/GitHub/BBS_Wittlich/AbschlussProjekt/BibTool/BibTool.Data/BibTool.Data.csproj": {}
   },
   "projects": {
-    "/Users/manuelyates/Documents/GitHub/Schule/AbschlussProjekt/BibTool/BibTool.Data/BibTool.Data.csproj": {
+    "/Users/manuelyates/Documents/GitHub/BBS_Wittlich/AbschlussProjekt/BibTool/BibTool.Data/BibTool.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/manuelyates/Documents/GitHub/Schule/AbschlussProjekt/BibTool/BibTool.Data/BibTool.Data.csproj",
+        "projectUniqueName": "/Users/manuelyates/Documents/GitHub/BBS_Wittlich/AbschlussProjekt/BibTool/BibTool.Data/BibTool.Data.csproj",
         "projectName": "BibTool.Data",
-        "projectPath": "/Users/manuelyates/Documents/GitHub/Schule/AbschlussProjekt/BibTool/BibTool.Data/BibTool.Data.csproj",
+        "projectPath": "/Users/manuelyates/Documents/GitHub/BBS_Wittlich/AbschlussProjekt/BibTool/BibTool.Data/BibTool.Data.csproj",
         "packagesPath": "/Users/manuelyates/.nuget/packages/",
-        "outputPath": "/Users/manuelyates/Documents/GitHub/Schule/AbschlussProjekt/BibTool/BibTool.Data/obj/",
+        "outputPath": "/Users/manuelyates/Documents/GitHub/BBS_Wittlich/AbschlussProjekt/BibTool/BibTool.Data/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/manuelyates/.nuget/NuGet/NuGet.Config"

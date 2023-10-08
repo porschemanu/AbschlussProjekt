@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "y0beYdSrF3mY/Gof3qvUbWeXTE32nmxglkr9OyggDLpqUGkInVwqNN8gGJd5OhOPBHVu1vZQ5yzK+/DFHUXYLQ==",
+  "dgSpecHash": "3WNNkSOvhBnTXfGLYSh0YTdFkwGEpUv4Xp4A1jvWuPG2D6WInn42wKIm1s8Y+dXkie5i3M4RaWkoVSZyXjqkeA==",
   "success": true,
-  "projectFilePath": "/Users/manuelyates/Documents/GitHub/Schule/AbschlussProjekt/BibTool/BibTool.API/BibTool.API.csproj",
+  "projectFilePath": "/Users/manuelyates/Documents/GitHub/BBS_Wittlich/AbschlussProjekt/BibTool/BibTool.API/BibTool.API.csproj",
   "expectedPackageFiles": [
     "/Users/manuelyates/.nuget/packages/microsoft.aspnetcore.openapi/7.0.9/microsoft.aspnetcore.openapi.7.0.9.nupkg.sha512",
     "/Users/manuelyates/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

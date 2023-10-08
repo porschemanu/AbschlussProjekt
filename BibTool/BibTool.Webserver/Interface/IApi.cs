@@ -28,25 +28,15 @@ public interface IApi
     #endregion
 
     #region BorrowedBookManagement
-
+    public List<Book> GetAllOverdueBooks();
     public void AddBorrowedBook(Book book, User user);
-
+    public void GetAllBorrowedBooks();
+    public void ReturnBorrowedBook(Book book, User user);
     #endregion
 
-    
-
-    
-  
-    
-    public void GetAllBorrowedBooks();
-    
-    public void ReturnBorrowedBook(Book book, User user);
-
-    public List<Book> GetAllOverdueBooks();
-    
+    #region StockManagement
     public int GetBookStock(Book book);
     
     public void UpdateBookStock(Book book, int count);
-    
-    
+    #endregion
 }

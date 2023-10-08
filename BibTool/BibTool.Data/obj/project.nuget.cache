@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Pd0sk7kgWktZBgO5Pjq9PvcPL2vzOgaC4iD/JDq4VNymAB/OIKISRc/+UEjMJbRpZiHuY3RjB5mYaIBSlmKQJw==",
+  "dgSpecHash": "G9xkWxtStqXL7GYnc0umzdOEtNV+OQJkXNS4/T1smcgbhMpCQjn0ryBBy7yEJC9RwsYZR9gs6QvifAvR1pjzoA==",
   "success": true,
-  "projectFilePath": "/Users/manuelyates/Documents/GitHub/Schule/AbschlussProjekt/BibTool/BibTool.Data/BibTool.Data.csproj",
+  "projectFilePath": "/Users/manuelyates/Documents/GitHub/BBS_Wittlich/AbschlussProjekt/BibTool/BibTool.Data/BibTool.Data.csproj",
   "expectedPackageFiles": [
     "/Users/manuelyates/.nuget/packages/microsoft.entityframeworkcore/7.0.11/microsoft.entityframeworkcore.7.0.11.nupkg.sha512",
     "/Users/manuelyates/.nuget/packages/microsoft.entityframeworkcore.abstractions/7.0.11/microsoft.entityframeworkcore.abstractions.7.0.11.nupkg.sha512",

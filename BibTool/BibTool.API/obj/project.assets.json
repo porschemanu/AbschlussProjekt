@@ -474,11 +474,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/manuelyates/Documents/GitHub/Schule/AbschlussProjekt/BibTool/BibTool.API/BibTool.API.csproj",
+      "projectUniqueName": "/Users/manuelyates/Documents/GitHub/BBS_Wittlich/AbschlussProjekt/BibTool/BibTool.API/BibTool.API.csproj",
       "projectName": "BibTool.API",
-      "projectPath": "/Users/manuelyates/Documents/GitHub/Schule/AbschlussProjekt/BibTool/BibTool.API/BibTool.API.csproj",
+      "projectPath": "/Users/manuelyates/Documents/GitHub/BBS_Wittlich/AbschlussProjekt/BibTool/BibTool.API/BibTool.API.csproj",
       "packagesPath": "/Users/manuelyates/.nuget/packages/",
-      "outputPath": "/Users/manuelyates/Documents/GitHub/Schule/AbschlussProjekt/BibTool/BibTool.API/obj/",
+      "outputPath": "/Users/manuelyates/Documents/GitHub/BBS_Wittlich/AbschlussProjekt/BibTool/BibTool.API/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/manuelyates/.nuget/NuGet/NuGet.Config"
