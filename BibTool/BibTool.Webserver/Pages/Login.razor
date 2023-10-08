@@ -1,0 +1,43 @@
+@page "/login"
+@using BibTool.Webserver.Interface
+@using BibTool.Webserver.Data
+@inject UserManager _UserManager
+@inject NavigationManager NavigationManager
+@inject IUserRepo _UserRepo
+
+<MudGrid Style="margin-top: 15vh;" Justify="Justify.Center">
+    <MudItem xs="10" Class="d-flex justify-content-center">
+        <MudPaper Elevation="2" Height="40vh" Width="50vw">
+            <MudForm>
+                <MudGrid Justify="Justify.Center">
+                    <MudItem xs="12">
+                        <MudText Align="Align.Center" Typo="Typo.h3">Login</MudText>
+                    </MudItem>
+                    <MudItem xs="7">
+                        <MudTextField bind-Value="username" Immediate="true" Variant="Variant.Outlined" T="string" Required="true" Label="Username"/>
+                    </MudItem>
+                    <MudItem xs="7">
+                        <MudTextField bind-Value="password" Immediate="true" Variant="Variant.Outlined" InputType="InputType.Password" T="string" Required="true" Label="Password"/>
+                    </MudItem>
+                    <MudItem xs="12" Class="d-flex justify-content-center">
+                        <MudButton OnClick="Submit" Variant="Variant.Filled" Color="Color.Primary">Login</MudButton>
+                    </MudItem>
+                </MudGrid>
+            </MudForm>
+        </MudPaper>
+    </MudItem>
+</MudGrid>
+
+
+@code{
+    
+    string username;
+    string password;
+
+    private void Submit()
+    {
+        _UserManager.User = _UserRepo.Login(username, password);
+        NavigationManager.NavigateTo("/");
+    }
+
+}

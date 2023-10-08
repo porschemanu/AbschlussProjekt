@@ -1,5 +1,7 @@
+using BibTool.Webserver.Data;
 using BibTool.Webserver.Interface;
 using BibTool.Webserver.Mocking;
+using BibTool.Webserver.Repositories;
 using Microsoft.AspNetCore.Components;
 using Microsoft.AspNetCore.Components.Web;
 using MudBlazor.Services;
@@ -10,8 +12,10 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddRazorPages();
 builder.Services.AddServerSideBlazor();
 builder.Services.AddMudServices();
+builder.Services.AddSingleton<UserManager>();
 builder.Services.AddSingleton<IUserRepo, MockUserRepo>();
-builder.Services.
+builder.Services.AddTransient<IBookRepo, MockBockRepo>();
+builder.Services.AddTransient<IStockRepo, MockStockRepo>();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

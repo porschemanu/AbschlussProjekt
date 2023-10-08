@@ -1,6 +1,6 @@
 using BibTool.Data.Models;
 
-namespace BibTool.Webserver.Repositories;
+namespace BibTool.Webserver.Interface;
 
 public interface IBookRepo
 {

@@ -1,0 +1,28 @@
+@page "/booktable"
+@using BibTool.Data.Models
+@using BibTool.Webserver.Interface
+
+@inject IBookRepo BookRepo
+
+<MudDataGrid T="Book" Items="_books">
+    <Columns>
+        <PropertyColumn Property="x => x.Id"/>
+        <PropertyColumn Property="x => x.Title"/>
+        <PropertyColumn Property="x => x.Author"/>
+        <PropertyColumn Property="x => x.Publisher"/>
+        <PropertyColumn Property="x => x.Stock"/>
+    </Columns>
+</MudDataGrid>
+
+
+@code{
+
+    List<Book> _books = new List<Book>();
+
+    protected override void OnParametersSet()
+    {
+        _books = BookRepo.GetAllBooks();
+        base.OnParametersSet();
+    }
+
+}

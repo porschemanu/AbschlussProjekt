@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/BibTool.Webserver.props" />
+</Project>

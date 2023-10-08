@@ -1,26 +1,42 @@
-﻿@inherits LayoutComponentBase
-
-<MudThemeProvider/>
+﻿@using BibTool.Webserver.Data
+@using BibTool.Webserver.Pages
+@inherits LayoutComponentBase
+@inject UserManager _userManager
+@inject NavigationManager _navigationManager
+<MudThemeProvider Theme="_theme"/>
 <MudDialogProvider/>
 <MudSnackbarProvider/>
 
 <PageTitle>BibTool.Webserver</PageTitle>
 
-<MudLayout>
-    <MudAppBar Elevation="1">
-        <MudIconButton Icon="@Icons.Material.Filled.Menu" Color="Color.Inherit" Edge="Edge.Start" OnClick="@((e) => DrawerToggle())" />
-        <MudText Typo="Typo.h5" Class="ml-3">Application</MudText>
-        <MudSpacer />
-        <MudIconButton Icon="@Icons.Material.Filled.MoreVert" Color="Color.Inherit" Edge="Edge.End" />
-    </MudAppBar>
-    <MudDrawer @bind-Open="_drawerOpen" ClipMode="DrawerClipMode.Always" Elevation="2">
-        <NavMenu />
-    </MudDrawer>
-    <MudMainContent>
+@if (_userManager.User != null)
+{
+    <MudLayout>
+        <MudAppBar Color="Color.Primary" Elevation="1">
+            <MudIconButton Icon="@Icons.Material.Filled.Menu" Color="Color.Inherit" Edge="Edge.Start" OnClick="@((e) => DrawerToggle())" />
+            <MudIcon Icon="@Icons.Material.Filled.LibraryBooks" ></MudIcon>
+            <MudText Typo="Typo.h5" Class="ml-3">BibTool</MudText>
+            <MudSpacer />
+            <MudIconButton Icon="@Icons.Material.Filled.MoreVert" Color="Color.Inherit" Edge="Edge.End" />
+        </MudAppBar>
+        <MudDrawer @bind-Open="_drawerOpen" ClipMode="DrawerClipMode.Always" Elevation="2">
+            <NavMenu />
+        </MudDrawer>
+        <MudMainContent>
+            @Body
+        </MudMainContent>
+    </MudLayout>
+}
+else
+{
+    <MudLayout>
         @Body
-    </MudMainContent>
-</MudLayout>
+    </MudLayout>
+}
+
+
 @code {
+    
     bool _drawerOpen = true;
 
     void DrawerToggle()

@@ -24,12 +24,20 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9Vc2VyQmFzZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
+[/Users/manuelyates/Documents/GitHub/BBS_Wittlich/AbschlussProjekt/BibTool/BibTool.Webserver/Pages/BookTable.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQm9va1RhYmxlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/manuelyates/Documents/GitHub/BBS_Wittlich/AbschlussProjekt/BibTool/BibTool.Webserver/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/manuelyates/Documents/GitHub/BBS_Wittlich/AbschlussProjekt/BibTool/BibTool.Webserver/Pages/Login.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTG9naW4ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/manuelyates/Documents/GitHub/BBS_Wittlich/AbschlussProjekt/BibTool/BibTool.Webserver/Pages/NewBook.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTmV3Qm9vay5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/manuelyates/Documents/GitHub/BBS_Wittlich/AbschlussProjekt/BibTool/BibTool.Webserver/_Imports.razor]

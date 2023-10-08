@@ -1,0 +1,12 @@
+/Users/manuelyates/Documents/GitHub/BBS_Wittlich/AbschlussProjekt/BibTool/BibTool.Data/bin/Debug/net7.0/BibTool.Data.deps.json
+/Users/manuelyates/Documents/GitHub/BBS_Wittlich/AbschlussProjekt/BibTool/BibTool.Data/bin/Debug/net7.0/BibTool.Data.dll
+/Users/manuelyates/Documents/GitHub/BBS_Wittlich/AbschlussProjekt/BibTool/BibTool.Data/bin/Debug/net7.0/BibTool.Data.pdb
+/Users/manuelyates/Documents/GitHub/BBS_Wittlich/AbschlussProjekt/BibTool/BibTool.Data/obj/Debug/net7.0/BibTool.Data.csproj.AssemblyReference.cache
+/Users/manuelyates/Documents/GitHub/BBS_Wittlich/AbschlussProjekt/BibTool/BibTool.Data/obj/Debug/net7.0/BibTool.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/manuelyates/Documents/GitHub/BBS_Wittlich/AbschlussProjekt/BibTool/BibTool.Data/obj/Debug/net7.0/BibTool.Data.AssemblyInfoInputs.cache
+/Users/manuelyates/Documents/GitHub/BBS_Wittlich/AbschlussProjekt/BibTool/BibTool.Data/obj/Debug/net7.0/BibTool.Data.AssemblyInfo.cs
+/Users/manuelyates/Documents/GitHub/BBS_Wittlich/AbschlussProjekt/BibTool/BibTool.Data/obj/Debug/net7.0/BibTool.Data.csproj.CoreCompileInputs.cache
+/Users/manuelyates/Documents/GitHub/BBS_Wittlich/AbschlussProjekt/BibTool/BibTool.Data/obj/Debug/net7.0/BibTool.Data.dll
+/Users/manuelyates/Documents/GitHub/BBS_Wittlich/AbschlussProjekt/BibTool/BibTool.Data/obj/Debug/net7.0/refint/BibTool.Data.dll
+/Users/manuelyates/Documents/GitHub/BBS_Wittlich/AbschlussProjekt/BibTool/BibTool.Data/obj/Debug/net7.0/BibTool.Data.pdb
+/Users/manuelyates/Documents/GitHub/BBS_Wittlich/AbschlussProjekt/BibTool/BibTool.Data/obj/Debug/net7.0/ref/BibTool.Data.dll
