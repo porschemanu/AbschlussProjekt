@@ -5,7 +5,14 @@
 
 @inject IBookRepo BookRepo
 
-<MudDataGrid T="Book" Items="_books">
+<MudDataGrid T="Book" Filterable="true" QuickFilter="_quickFilter" Items="_books">
+    <ToolBarContent>
+        <MudText Typo="Typo.h6">Periodic Elements</MudText>
+        <MudSpacer/>
+        <MudTextField @bind-Value="_searchString" Placeholder="Search" Adornment="Adornment.Start" Immediate="true"
+                      AdornmentIcon="@Icons.Material.Filled.Search" IconSize="Size.Medium" Class="mt-0">
+        </MudTextField>
+    </ToolBarContent>
     <Columns>
         <PropertyColumn Property="x => x.Id"/>
         <PropertyColumn Property="x => x.Title"/>
@@ -25,5 +32,24 @@
         _books = BookRepo.GetAllBooks();
         base.OnParametersSet();
     }
+    
+    private string _searchString;
+    
+    private Func<Book, bool> _quickFilter => x =>
+    {
+        if (string.IsNullOrWhiteSpace(_searchString))
+            return true;
+
+        if (x.Title.Contains(_searchString, StringComparison.OrdinalIgnoreCase))
+            return true;
+
+        if (x.Author.Contains(_searchString, StringComparison.OrdinalIgnoreCase))
+            return true;
+
+      //  if ($"{x.Number} {x.Position} {x.Molar}".Contains(_searchString))
+      //      return true;
+
+        return false;
+    };
 
 }

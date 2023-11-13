@@ -6,18 +6,13 @@
         <MudText Typo="Typo.h4">Ausleihe hinzufügen</MudText>
     </MudItem>
     <MudItem>
-        <MudAutocomplete T="string" Label="US States" @bind-Value="value1" SearchFunc="@Search1"
-                         ResetValueOnEmptyText="@resetValueOnEmptyText"
-                         CoerceText="@coerceText" CoerceValue="@coerceValue" />
+        <MudAutocomplete T="string" Label="US States" @bind-Value="value1" SearchFunc="@Search1"/>
     </MudItem>
 </MudGrid>
 
 @code{
-
-    private bool resetValueOnEmptyText;
-    private bool coerceText;
-    private bool coerceValue;
-    private string value1, value2;
+    
+    private string value1;
     private string[] states =
     {
         "Alabama", "Alaska", "American Samoa", "Arizona",
