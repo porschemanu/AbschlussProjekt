@@ -1,10 +1,7 @@
 using BibTool.Data.Models;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.IdentityModel.Protocols;
 
 namespace BibTool.Data.Context;
-using Microsoft.Extensions.Options;
-using static Microsoft.EntityFrameworkCore.DbLoggerCategory.Database;
 
 public class BibToolContext : DbContext
 {
