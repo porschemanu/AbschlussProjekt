@@ -1,7 +1,37 @@
 @page "/book/add"
-
+@inject IBookRepo BookRepo
+@inject NavigationManager NavigationManager
+@using BibTool.Data.Models
+@using BibTool.Webserver.Interface
+<BibTool.Webserver.Components.UserBase/>
 <MudGrid>
-    <MudItem>
+    <MudItem xs="6">
         <MudText Typo="Typo.h4">Neues Buch anlegen</MudText>
     </MudItem>
+    <MudItem xs="6">
+        <MudButton Disabled="(!_success)">Speichern</MudButton>
+    </MudItem>
+    <MudItem xs="12">
+        <MudForm bind-IsValid="_success">
+            <MudTextField Immediate="true" T="string" Required="true" bind-Value="_book.Title" Variant="Variant.Outlined" Label="Titel"/>
+            <MudTextField Immediate="true" T="string" Required="true" bind-Value="_book.Author" Variant="Variant.Outlined" Label="Autor"/>
+            <MudTextField Immediate="true" T="string" Required="true" bind-Value="_book.Isbn" Variant="Variant.Outlined" Label="Isbn"/>
+            <MudTextField Immediate="true" T="string" bind-Value="_book.Publisher" Variant="Variant.Outlined" Label="Verlag"/>
+            <MudTextField Immediate="true" T="DateOnly" bind-Value="_book.ReleaseDate" Variant="Variant.Outlined" InputType="InputType.Date" Label="Erscheinungsjahr"/>
+            <MudTextField Immediate="true" T="int" bind-Value="_book.Stock" Variant="Variant.Outlined" InputType="InputType.Number" Label="Anzahl Exemplare"/>
+        </MudForm>
+    </MudItem>
 </MudGrid>
+
+@code{
+
+    bool _success = false;
+        
+    Book _book = new Book();
+
+    private void Save()
+    {
+        BookRepo.AddBook(_book);
+        NavigationManager.NavigateTo("/book/table");
+    }
+}

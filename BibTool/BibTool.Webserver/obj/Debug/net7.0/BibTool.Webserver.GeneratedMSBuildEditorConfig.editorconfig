@@ -9,61 +9,61 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BibTool.Webserver
 build_property.RootNamespace = BibTool.Webserver
-build_property.ProjectDir = C:\Dateien\_Code\C#\AbschlussProjekt\BibTool\BibTool.Webserver\
+build_property.ProjectDir = /Users/manuelyates/Documents/GitHub/BBS_Wittlich/AbschlussProjekt/BibTool/BibTool.Webserver/
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Dateien\_Code\C#\AbschlussProjekt\BibTool\BibTool.Webserver
+build_property.MSBuildProjectDirectory = /Users/manuelyates/Documents/GitHub/BBS_Wittlich/AbschlussProjekt/BibTool/BibTool.Webserver
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Dateien/_Code/C\#/AbschlussProjekt/BibTool/BibTool.Webserver/App.razor]
+[/Users/manuelyates/Documents/GitHub/BBS_Wittlich/AbschlussProjekt/BibTool/BibTool.Webserver/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Dateien/_Code/C\#/AbschlussProjekt/BibTool/BibTool.Webserver/Components/UserBase.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xVc2VyQmFzZS5yYXpvcg==
+[/Users/manuelyates/Documents/GitHub/BBS_Wittlich/AbschlussProjekt/BibTool/BibTool.Webserver/Components/UserBase.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9Vc2VyQmFzZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Dateien/_Code/C\#/AbschlussProjekt/BibTool/BibTool.Webserver/Pages/Books/Add.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQm9va3NcQWRkLnJhem9y
+[/Users/manuelyates/Documents/GitHub/BBS_Wittlich/AbschlussProjekt/BibTool/BibTool.Webserver/Pages/Books/Add.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQm9va3MvQWRkLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Dateien/_Code/C\#/AbschlussProjekt/BibTool/BibTool.Webserver/Pages/Books/Table.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQm9va3NcVGFibGUucmF6b3I=
+[/Users/manuelyates/Documents/GitHub/BBS_Wittlich/AbschlussProjekt/BibTool/BibTool.Webserver/Pages/Books/Table.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQm9va3MvVGFibGUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Dateien/_Code/C\#/AbschlussProjekt/BibTool/BibTool.Webserver/Pages/Borrow/Add.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQm9ycm93XEFkZC5yYXpvcg==
+[/Users/manuelyates/Documents/GitHub/BBS_Wittlich/AbschlussProjekt/BibTool/BibTool.Webserver/Pages/Borrow/Add.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQm9ycm93L0FkZC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Dateien/_Code/C\#/AbschlussProjekt/BibTool/BibTool.Webserver/Pages/Index.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+[/Users/manuelyates/Documents/GitHub/BBS_Wittlich/AbschlussProjekt/BibTool/BibTool.Webserver/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Dateien/_Code/C\#/AbschlussProjekt/BibTool/BibTool.Webserver/Pages/Login.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW4ucmF6b3I=
+[/Users/manuelyates/Documents/GitHub/BBS_Wittlich/AbschlussProjekt/BibTool/BibTool.Webserver/Pages/Login.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTG9naW4ucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Dateien/_Code/C\#/AbschlussProjekt/BibTool/BibTool.Webserver/Pages/Stock/Update.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3RvY2tcVXBkYXRlLnJhem9y
+[/Users/manuelyates/Documents/GitHub/BBS_Wittlich/AbschlussProjekt/BibTool/BibTool.Webserver/Pages/Stock/Update.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU3RvY2svVXBkYXRlLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Dateien/_Code/C\#/AbschlussProjekt/BibTool/BibTool.Webserver/_Imports.razor]
+[/Users/manuelyates/Documents/GitHub/BBS_Wittlich/AbschlussProjekt/BibTool/BibTool.Webserver/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Dateien/_Code/C\#/AbschlussProjekt/BibTool/BibTool.Webserver/Shared/MainLayout.razor]
-build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = b-toq0t6ln6k
+[/Users/manuelyates/Documents/GitHub/BBS_Wittlich/AbschlussProjekt/BibTool/BibTool.Webserver/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL01haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-7z9xnximoa
 
-[C:/Dateien/_Code/C\#/AbschlussProjekt/BibTool/BibTool.Webserver/Shared/NavMenu.razor]
-build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = b-yigw2hc58s
+[/Users/manuelyates/Documents/GitHub/BBS_Wittlich/AbschlussProjekt/BibTool/BibTool.Webserver/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL05hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-suaazyd6t9
 
-[C:/Dateien/_Code/C\#/AbschlussProjekt/BibTool/BibTool.Webserver/Pages/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+[/Users/manuelyates/Documents/GitHub/BBS_Wittlich/AbschlussProjekt/BibTool/BibTool.Webserver/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Dateien/_Code/C\#/AbschlussProjekt/BibTool/BibTool.Webserver/Pages/_Host.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
+[/Users/manuelyates/Documents/GitHub/BBS_Wittlich/AbschlussProjekt/BibTool/BibTool.Webserver/Pages/_Host.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX0hvc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
