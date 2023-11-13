@@ -103,6 +103,7 @@ StyleCopReport.xml
 *.scc
 *.dll
 *.cache
+*.json
 
 # Chutzpah Test files
 _Chutzpah*
@@ -405,3 +406,7 @@ FodyWeavers.xsd
 # Additional files built by Visual Studio
 
 # End of https://www.toptal.com/developers/gitignore/api/visualstudio
+*.json
+BibTool/BibTool.API/obj/BibTool.API.csproj.nuget.dgspec.json
+*.json
+*.targets
