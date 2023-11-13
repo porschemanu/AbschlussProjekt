@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BibTool.Data
-build_property.ProjectDir = C:\Dateien\_Code\bib-tool\AbschlussProjekt\BibTool\BibTool.Data\
+build_property.ProjectDir = /Users/manuelyates/Documents/GitHub/BBS_Wittlich/AbschlussProjekt/BibTool/BibTool.Data/

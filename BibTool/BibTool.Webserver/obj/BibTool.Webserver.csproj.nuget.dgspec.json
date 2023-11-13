@@ -1,32 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Dateien\\_Code\\bib-tool\\AbschlussProjekt\\BibTool\\BibTool.Webserver\\BibTool.Webserver.csproj": {}
+    "/Users/manuelyates/Documents/GitHub/BBS_Wittlich/AbschlussProjekt/BibTool/BibTool.Webserver/BibTool.Webserver.csproj": {}
   },
   "projects": {
-    "C:\\Dateien\\_Code\\bib-tool\\AbschlussProjekt\\BibTool\\BibTool.Data\\BibTool.Data.csproj": {
+    "/Users/manuelyates/Documents/GitHub/BBS_Wittlich/AbschlussProjekt/BibTool/BibTool.Data/BibTool.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Dateien\\_Code\\bib-tool\\AbschlussProjekt\\BibTool\\BibTool.Data\\BibTool.Data.csproj",
+        "projectUniqueName": "/Users/manuelyates/Documents/GitHub/BBS_Wittlich/AbschlussProjekt/BibTool/BibTool.Data/BibTool.Data.csproj",
         "projectName": "BibTool.Data",
-        "projectPath": "C:\\Dateien\\_Code\\bib-tool\\AbschlussProjekt\\BibTool\\BibTool.Data\\BibTool.Data.csproj",
-        "packagesPath": "C:\\Users\\luiss\\.nuget\\packages\\",
-        "outputPath": "C:\\Dateien\\_Code\\bib-tool\\AbschlussProjekt\\BibTool\\BibTool.Data\\obj\\",
+        "projectPath": "/Users/manuelyates/Documents/GitHub/BBS_Wittlich/AbschlussProjekt/BibTool/BibTool.Data/BibTool.Data.csproj",
+        "packagesPath": "/Users/manuelyates/.nuget/packages/",
+        "outputPath": "/Users/manuelyates/Documents/GitHub/BBS_Wittlich/AbschlussProjekt/BibTool/BibTool.Data/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\luiss\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/manuelyates/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
+          "/usr/local/share/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -48,6 +42,10 @@
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[7.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.11, )"
             }
           },
           "imports": [
@@ -66,41 +64,36 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.306/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Dateien\\_Code\\bib-tool\\AbschlussProjekt\\BibTool\\BibTool.Webserver\\BibTool.Webserver.csproj": {
+    "/Users/manuelyates/Documents/GitHub/BBS_Wittlich/AbschlussProjekt/BibTool/BibTool.Webserver/BibTool.Webserver.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Dateien\\_Code\\bib-tool\\AbschlussProjekt\\BibTool\\BibTool.Webserver\\BibTool.Webserver.csproj",
+        "projectUniqueName": "/Users/manuelyates/Documents/GitHub/BBS_Wittlich/AbschlussProjekt/BibTool/BibTool.Webserver/BibTool.Webserver.csproj",
         "projectName": "BibTool.Webserver",
-        "projectPath": "C:\\Dateien\\_Code\\bib-tool\\AbschlussProjekt\\BibTool\\BibTool.Webserver\\BibTool.Webserver.csproj",
-        "packagesPath": "C:\\Users\\luiss\\.nuget\\packages\\",
-        "outputPath": "C:\\Dateien\\_Code\\bib-tool\\AbschlussProjekt\\BibTool\\BibTool.Webserver\\obj\\",
+        "projectPath": "/Users/manuelyates/Documents/GitHub/BBS_Wittlich/AbschlussProjekt/BibTool/BibTool.Webserver/BibTool.Webserver.csproj",
+        "packagesPath": "/Users/manuelyates/.nuget/packages/",
+        "outputPath": "/Users/manuelyates/Documents/GitHub/BBS_Wittlich/AbschlussProjekt/BibTool/BibTool.Webserver/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\luiss\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/manuelyates/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
+          "/usr/local/share/dotnet/library-packs": {},
+          "/usr/local/share/dotnet/sdk/7.0.306/Sdks/Microsoft.NET.Sdk.Web/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Dateien\\_Code\\bib-tool\\AbschlussProjekt\\BibTool\\BibTool.Data\\BibTool.Data.csproj": {
-                "projectPath": "C:\\Dateien\\_Code\\bib-tool\\AbschlussProjekt\\BibTool\\BibTool.Data\\BibTool.Data.csproj"
+              "/Users/manuelyates/Documents/GitHub/BBS_Wittlich/AbschlussProjekt/BibTool/BibTool.Data/BibTool.Data.csproj": {
+                "projectPath": "/Users/manuelyates/Documents/GitHub/BBS_Wittlich/AbschlussProjekt/BibTool/BibTool.Data/BibTool.Data.csproj"
               }
             }
           }
@@ -139,7 +132,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.306/RuntimeIdentifierGraph.json"
         }
       }
     }

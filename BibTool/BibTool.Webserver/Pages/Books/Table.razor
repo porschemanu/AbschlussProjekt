@@ -43,7 +43,7 @@
         if (x.Title.Contains(_searchString, StringComparison.OrdinalIgnoreCase))
             return true;
 
-        if (x.Author.Contains(_searchString, StringComparison.OrdinalIgnoreCase))
+        if (x.Author.FirstName.Contains(_searchString, StringComparison.OrdinalIgnoreCase))
             return true;
 
       //  if ($"{x.Number} {x.Position} {x.Molar}".Contains(_searchString))
