@@ -10,3 +10,11 @@
 /Users/manuelyates/Documents/GitHub/BBS_Wittlich/AbschlussProjekt/BibTool/BibTool.Data/obj/Debug/net7.0/refint/BibTool.Data.dll
 /Users/manuelyates/Documents/GitHub/BBS_Wittlich/AbschlussProjekt/BibTool/BibTool.Data/obj/Debug/net7.0/BibTool.Data.pdb
 /Users/manuelyates/Documents/GitHub/BBS_Wittlich/AbschlussProjekt/BibTool/BibTool.Data/obj/Debug/net7.0/ref/BibTool.Data.dll
+C:\Dateien\_Code\bib-tool\AbschlussProjekt\BibTool\BibTool.Data\obj\Debug\net7.0\BibTool.Data.csproj.AssemblyReference.cache
+C:\Dateien\_Code\bib-tool\AbschlussProjekt\BibTool\BibTool.Data\obj\Debug\net7.0\BibTool.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dateien\_Code\bib-tool\AbschlussProjekt\BibTool\BibTool.Data\obj\Debug\net7.0\BibTool.Data.AssemblyInfoInputs.cache
+C:\Dateien\_Code\bib-tool\AbschlussProjekt\BibTool\BibTool.Data\obj\Debug\net7.0\BibTool.Data.AssemblyInfo.cs
+C:\Dateien\_Code\bib-tool\AbschlussProjekt\BibTool\BibTool.Data\obj\Debug\net7.0\BibTool.Data.csproj.CoreCompileInputs.cache
+C:\Dateien\_Code\bib-tool\AbschlussProjekt\BibTool\BibTool.Data\obj\Debug\net7.0\BibTool.Data.dll
+C:\Dateien\_Code\bib-tool\AbschlussProjekt\BibTool\BibTool.Data\obj\Debug\net7.0\refint\BibTool.Data.dll
+C:\Dateien\_Code\bib-tool\AbschlussProjekt\BibTool\BibTool.Data\obj\Debug\net7.0\BibTool.Data.pdb

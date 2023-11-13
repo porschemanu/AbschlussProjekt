@@ -1,12 +1,21 @@
+using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
+using System.Security.Principal;
+
 namespace BibTool.Data.Models;
 
 public class Book
 {
-    public int Id { get; set; }
+    public int BookId { get; set; }
+    public int Isbn { get; set; }
     public string Title { get; set; } = "";
-    public string Author { get; set; } = "";
     public string Publisher { get; set; } = "";
-    public string Isbn { get; set; } = "";
-    public DateOnly ReleaseDate { get; set; } = DateOnly.MinValue;
-    public int Stock { get; set; } = 0;
+    public DateTime ReleaseDate { get; set; } = DateTime.MinValue;
+
+    // 1..n : Author..Book
+    public int AuthorId { get; set; }
+    public Author Author { get; set; } = null!;
+
+    // 1..n : Book..BookCopy
+    public ICollection<BookCopy> BookCopies { get; } = new List<BookCopy>();
 }

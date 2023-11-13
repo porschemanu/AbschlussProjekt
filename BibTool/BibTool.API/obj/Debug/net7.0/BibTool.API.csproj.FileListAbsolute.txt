@@ -1,0 +1,10 @@
+C:\Dateien\_Code\bib-tool\AbschlussProjekt\BibTool\BibTool.API\obj\Debug\net7.0\BibTool.API.csproj.AssemblyReference.cache
+C:\Dateien\_Code\bib-tool\AbschlussProjekt\BibTool\BibTool.API\obj\Debug\net7.0\BibTool.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dateien\_Code\bib-tool\AbschlussProjekt\BibTool\BibTool.API\obj\Debug\net7.0\BibTool.API.AssemblyInfoInputs.cache
+C:\Dateien\_Code\bib-tool\AbschlussProjekt\BibTool\BibTool.API\obj\Debug\net7.0\BibTool.API.AssemblyInfo.cs
+C:\Dateien\_Code\bib-tool\AbschlussProjekt\BibTool\BibTool.API\obj\Debug\net7.0\BibTool.API.csproj.CoreCompileInputs.cache
+C:\Dateien\_Code\bib-tool\AbschlussProjekt\BibTool\BibTool.API\obj\Debug\net7.0\BibTool.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Dateien\_Code\bib-tool\AbschlussProjekt\BibTool\BibTool.API\obj\Debug\net7.0\BibTool.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Dateien\_Code\bib-tool\AbschlussProjekt\BibTool\BibTool.API\obj\Debug\net7.0\BibTool.API.dll
+C:\Dateien\_Code\bib-tool\AbschlussProjekt\BibTool\BibTool.API\obj\Debug\net7.0\refint\BibTool.API.dll
+C:\Dateien\_Code\bib-tool\AbschlussProjekt\BibTool\BibTool.API\obj\Debug\net7.0\BibTool.API.pdb

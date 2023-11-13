@@ -45,3 +45,14 @@
 /Users/manuelyates/Documents/GitHub/BBS_Wittlich/AbschlussProjekt/BibTool/BibTool.Webserver/obj/Debug/net7.0/BibTool.Webserver.pdb
 /Users/manuelyates/Documents/GitHub/BBS_Wittlich/AbschlussProjekt/BibTool/BibTool.Webserver/obj/Debug/net7.0/BibTool.Webserver.genruntimeconfig.cache
 /Users/manuelyates/Documents/GitHub/BBS_Wittlich/AbschlussProjekt/BibTool/BibTool.Webserver/obj/Debug/net7.0/ref/BibTool.Webserver.dll
+C:\Dateien\_Code\bib-tool\AbschlussProjekt\BibTool\BibTool.Webserver\obj\Debug\net7.0\BibTool.Webserver.csproj.AssemblyReference.cache
+C:\Dateien\_Code\bib-tool\AbschlussProjekt\BibTool\BibTool.Webserver\obj\Debug\net7.0\BibTool.Webserver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dateien\_Code\bib-tool\AbschlussProjekt\BibTool\BibTool.Webserver\obj\Debug\net7.0\BibTool.Webserver.AssemblyInfoInputs.cache
+C:\Dateien\_Code\bib-tool\AbschlussProjekt\BibTool\BibTool.Webserver\obj\Debug\net7.0\BibTool.Webserver.AssemblyInfo.cs
+C:\Dateien\_Code\bib-tool\AbschlussProjekt\BibTool\BibTool.Webserver\obj\Debug\net7.0\BibTool.Webserver.csproj.CoreCompileInputs.cache
+C:\Dateien\_Code\bib-tool\AbschlussProjekt\BibTool\BibTool.Webserver\obj\Debug\net7.0\BibTool.Webserver.MvcApplicationPartsAssemblyInfo.cache
+C:\Dateien\_Code\bib-tool\AbschlussProjekt\BibTool\BibTool.Webserver\obj\Debug\net7.0\BibTool.Webserver.RazorAssemblyInfo.cache
+C:\Dateien\_Code\bib-tool\AbschlussProjekt\BibTool\BibTool.Webserver\obj\Debug\net7.0\BibTool.Webserver.RazorAssemblyInfo.cs
+C:\Dateien\_Code\bib-tool\AbschlussProjekt\BibTool\BibTool.Webserver\obj\Debug\net7.0\BibTool.Webserver.dll
+C:\Dateien\_Code\bib-tool\AbschlussProjekt\BibTool\BibTool.Webserver\obj\Debug\net7.0\refint\BibTool.Webserver.dll
+C:\Dateien\_Code\bib-tool\AbschlussProjekt\BibTool\BibTool.Webserver\obj\Debug\net7.0\BibTool.Webserver.pdb
