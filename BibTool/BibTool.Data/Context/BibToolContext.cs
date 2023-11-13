@@ -1,14 +1,21 @@
 using BibTool.Data.Models;
 using Microsoft.EntityFrameworkCore;
-namespace BibTool.Data.Context;
 using Microsoft.Extensions.Options;
-using static Microsoft.EntityFrameworkCore.DbLoggerCategory.Database;
+
+
+namespace BibTool.Data.Context;
 
 public class BibToolContext : DbContext
 {
     public BibToolContext(DbContextOptions<BibToolContext> options) : base(options)
     {
     }
+
+    //protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+    //{
+    //    base.OnConfiguring(optionsBuilder);
+    //    optionsBuilder.UseSqlServer();
+    //}
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
     {

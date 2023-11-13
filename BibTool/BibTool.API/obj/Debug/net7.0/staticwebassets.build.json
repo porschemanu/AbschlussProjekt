@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "82HLFP4xtHNRVJn14YPQ9lQr5FnvyE3MtE5HpSALE+A=",
+  "Source": "BibTool.API",
+  "BasePath": "_content/BibTool.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

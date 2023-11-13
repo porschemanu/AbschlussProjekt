@@ -1152,7 +1152,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
-          "Microsoft.EntityFrameworkCore": "7.0.11"
+          "Microsoft.EntityFrameworkCore": "7.0.13",
+          "Microsoft.EntityFrameworkCore.SqlServer": "7.0.13"
         },
         "compile": {
           "bin/placeholder/BibTool.Data.dll": {}
@@ -3325,7 +3326,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\luiss\\.nuget\\packages\\": {},
+    "C:\\Users\\Admin\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
@@ -3334,14 +3335,14 @@
       "projectUniqueName": "C:\\Dateien\\_Code\\bib-tool\\AbschlussProjekt\\BibTool\\BibTool.API\\BibTool.API.csproj",
       "projectName": "BibTool.API",
       "projectPath": "C:\\Dateien\\_Code\\bib-tool\\AbschlussProjekt\\BibTool\\BibTool.API\\BibTool.API.csproj",
-      "packagesPath": "C:\\Users\\luiss\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
       "outputPath": "C:\\Dateien\\_Code\\bib-tool\\AbschlussProjekt\\BibTool\\BibTool.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\luiss\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

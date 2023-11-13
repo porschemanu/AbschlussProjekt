@@ -18,3 +18,9 @@ C:\Dateien\_Code\bib-tool\AbschlussProjekt\BibTool\BibTool.Data\obj\Debug\net7.0
 C:\Dateien\_Code\bib-tool\AbschlussProjekt\BibTool\BibTool.Data\obj\Debug\net7.0\BibTool.Data.dll
 C:\Dateien\_Code\bib-tool\AbschlussProjekt\BibTool\BibTool.Data\obj\Debug\net7.0\refint\BibTool.Data.dll
 C:\Dateien\_Code\bib-tool\AbschlussProjekt\BibTool\BibTool.Data\obj\Debug\net7.0\BibTool.Data.pdb
+C:\Dateien\_Code\bib-tool\AbschlussProjekt\BibTool\BibTool.Data\bin\Debug\net7.0\BibTool.Data.deps.json
+C:\Dateien\_Code\bib-tool\AbschlussProjekt\BibTool\BibTool.Data\bin\Debug\net7.0\BibTool.Data.runtimeconfig.json
+C:\Dateien\_Code\bib-tool\AbschlussProjekt\BibTool\BibTool.Data\bin\Debug\net7.0\BibTool.Data.dll
+C:\Dateien\_Code\bib-tool\AbschlussProjekt\BibTool\BibTool.Data\bin\Debug\net7.0\BibTool.Data.pdb
+C:\Dateien\_Code\bib-tool\AbschlussProjekt\BibTool\BibTool.Data\obj\Debug\net7.0\BibTool.Data.genruntimeconfig.cache
+C:\Dateien\_Code\bib-tool\AbschlussProjekt\BibTool\BibTool.Data\obj\Debug\net7.0\ref\BibTool.Data.dll
