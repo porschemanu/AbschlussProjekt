@@ -1,10 +1,7 @@
 using BibTool.Data.Context;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.IdentityModel.Protocols;
 
 var builder = WebApplication.CreateBuilder(args);
-
-// Add services to the container.
 
 builder.Services.AddControllers();
 
@@ -13,7 +10,7 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddDbContext<BibToolContext>(options =>
 {
-    options.UseSqlServer(builder.Configuration.GetConnectionString("Manuel"));
+    options.UseSqlServer(builder.Configuration.GetConnectionString("Manuel"),b => b.MigrationsAssembly("BibTool.API"));
 });
 
 var app = builder.Build();

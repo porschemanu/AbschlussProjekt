@@ -14,9 +14,7 @@
                 <MudButton Disabled="(!_success)">Speichern</MudButton>
             </MudItem>
             <MudItem xs="12">
-
                 <MudTextField Immediate="true" T="string" Required="true" bind-Value="_book.Title" Variant="Variant.Outlined" Label="Titel"/>
-
             </MudItem>
             <MudItem xs="6">
                 <MudTextField Immediate="true" T="string" Required="true" bind-Value="_book.Author" Variant="Variant.Outlined" Label="Autor"/>
@@ -27,12 +25,11 @@
             <MudItem xs="8">
                 <MudTextField Immediate="true" T="string" Required="true" bind-Value="_book.Isbn" Variant="Variant.Outlined" Label="Isbn"/>
             </MudItem>
-
             <MudItem>
                 <MudTextField Immediate="true" T="string" bind-Value="_book.Publisher" Variant="Variant.Outlined" Label="Verlag"/>
             </MudItem>
             <MudItem xs="12">
-                <MudTextField Immediate="true" T="int" bind-Value="_book.Stock" Variant="Variant.Outlined" InputType="InputType.Number" Label="Anzahl Exemplare"/>
+                <MudTextField Immediate="true" T="int" Variant="Variant.Outlined" InputType="InputType.Number" Label="Anzahl Exemplare"/>
             </MudItem>
         </MudGrid>
     </MudForm>

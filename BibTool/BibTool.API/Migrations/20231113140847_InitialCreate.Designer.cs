@@ -12,7 +12,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace BibTool.API.Migrations
 {
     [DbContext(typeof(BibToolContext))]
-    [Migration("20231113130753_InitialCreate")]
+    [Migration("20231113140847_InitialCreate")]
     partial class InitialCreate
     {
         /// <inheritdoc />
