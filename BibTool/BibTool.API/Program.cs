@@ -17,7 +17,7 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddDbContext<BibToolContext>(options =>
 {
-    options.UseSqlServer(builder.Configuration.GetConnectionString("Luis"));
+    options.UseSqlServer(builder.Configuration.GetConnectionString("Manuel"),b => b.MigrationsAssembly("BibTool.API"));
 });
 
 builder.Services.AddScoped<IUserService, UserService>();

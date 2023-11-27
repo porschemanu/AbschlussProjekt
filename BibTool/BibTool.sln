@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BibTool.API", "BibTool.API\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BibTool.Data", "BibTool.Data\BibTool.Data.csproj", "{B75E9B53-09EA-4FF5-877E-9CF03196B084}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BibTool.Webserver2", "BibTool.Webserver2\BibTool.Webserver2.csproj", "{0B80C71C-4B5A-439C-B593-5F427BA79838}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{B75E9B53-09EA-4FF5-877E-9CF03196B084}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B75E9B53-09EA-4FF5-877E-9CF03196B084}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B75E9B53-09EA-4FF5-877E-9CF03196B084}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B80C71C-4B5A-439C-B593-5F427BA79838}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B80C71C-4B5A-439C-B593-5F427BA79838}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B80C71C-4B5A-439C-B593-5F427BA79838}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B80C71C-4B5A-439C-B593-5F427BA79838}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
