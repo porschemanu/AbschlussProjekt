@@ -3,7 +3,6 @@ using BibTool.API.Services.UserService;
 using BibTool.Data.Models;
 using Microsoft.AspNetCore.Http.HttpResults;
 using Microsoft.AspNetCore.Mvc;
-using RecipePlatformApi.Services.UserService;
 
 namespace BibTool.API.Controllers
 {

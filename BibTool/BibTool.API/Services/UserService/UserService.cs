@@ -1,10 +1,8 @@
-﻿using BibTool.API.Services.UserService;
+﻿using BibTool.Data.Context;
 using BibTool.Data.Models;
-using Microsoft.Data.SqlClient;
 using Microsoft.EntityFrameworkCore;
-using BibTool.Data.Context;
 
-namespace RecipePlatformApi.Services.UserService
+namespace BibTool.API.Services.UserService
 {
     public class UserService : IUserService
     {
